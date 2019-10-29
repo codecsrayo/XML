@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[23]:
-
-
 import xml.etree.ElementTree as ET
 context = ET.iterparse('file.xml', events=('end', )) # nombre del archivo  a editar file.xml
 index = 0
