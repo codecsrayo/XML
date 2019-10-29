@@ -17,7 +17,7 @@ for event, elem in context:
             f.write(a) # Escribe la cabecera de xml
             f.write(b) # Escribe la etiqueta de apertura
             f.write(ET.tostring(elem)) # Escribe etiquetas sub-etiquetas + cuerpo <root> cuerpo </root>.         
-            f.write(c) # Escribe la etiqueta de Cierre
+            f.write(c) # Escribe la etiqueta de Cierre 
             
 
             
