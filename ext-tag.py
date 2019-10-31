@@ -25,7 +25,7 @@
 
 
 
-import xml.etree.ElementTree as ET
+import xml.etree.ElementTree as ET # libreria para manipular archivos xml
 context = ET.iterparse('file.xml', events=('end', )) # nombre del archivo  a editar file.xml
 index = 0
 
