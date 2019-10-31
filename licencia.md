@@ -1,8 +1,6 @@
 Licencia MIT
 Copyright (c) 2019 
 
-AUTOR: Brayan Rayo
-
 Por la presente se otorga permiso, sin cargo, a cualquier persona que obtenga una copia
 de este software y los archivos de documentación asociados (el "Software"), para tratar
 en el Software sin restricción, incluidos, entre otros, los derechos
